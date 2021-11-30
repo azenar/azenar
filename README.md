@@ -3,7 +3,7 @@
 I'm a third-year self-taught Psychology student who likes, is passionate, and eager to explore new things, especially in the data science and analytics field.
 
 
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## Find me here <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <a href="https://www.linkedin.com/in/auliaar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.datacamp.com/profile/azenar"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"></a>
 
