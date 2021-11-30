@@ -4,4 +4,4 @@ I'm a third-year self-taught Psychology student who likes, is passionate, and ea
 
 [![Azenar's GitHub stats](https://github-readme-stats.vercel.app/api?username=azenar)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=azenar&style=flat-square)
+![](https://komarev.com/ghpvc/?username=azenar&color=blueviolet&style=plastic&label=Profile+Views)
