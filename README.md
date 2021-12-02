@@ -2,6 +2,7 @@
 <div align="center">
   <a href="https://github.com/azenar">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=azenar&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azenar&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
